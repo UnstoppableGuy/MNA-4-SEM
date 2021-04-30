@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "/home/pavel/Desktop/MNA/code_labs/lab5/env/bin/python3",
+    "python.linting.pydocstyleEnabled": true,
+    "python.linting.enabled": true
+}
